@@ -36,7 +36,7 @@ My professional background is primarily in enterprise automation, but outside of
 
 ## Projects
 
-### 🎾 ClipIT — Automated Sports Replay Platform
+### 🎾 [ClipIT — Automated Sports Replay Platform](https://github.com/MASQ07/clipit-replay-platform)
 
 A system I'm developing for padel clubs that captures and delivers instant replay clips using existing IP camera infrastructure.
 
