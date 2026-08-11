@@ -56,18 +56,24 @@ The project has involved solving problems across **hardware, networking, video p
 
 ---
 
-### 🧠 XIIS — News & Market Intelligence Engine
+### 🏓 [Padel Court Scoreboard](https://github.com/MASQ07/padel-court-scoreboard)
 
-An experimental web application exploring how structured economic data, APIs and AI-assisted analysis can be combined to analyse high-impact financial events.
+An Android-first court scoring system designed around dedicated court hardware rather than player phones.
 
-Areas explored include:
+The system combines:
 
-- API integration
-- Structured data processing
-- Event-driven workflows
-- Scenario and probability analysis
-- AI-assisted information processing
-- Modern web application development
+- React Native / Expo
+- Android-first deployment
+- Bluetooth Flic button input
+- Local scoring engine
+- Undo and match-state restoration
+- Text-to-speech score announcements
+- Bluetooth speaker output
+- Landscape scoreboard interface
+- Offline-first architecture
+- Native Android bridge integration
+
+The project focuses on **hardware/software integration, event-driven interaction, state management and reliable court-side usability**.
 
 ---
 
